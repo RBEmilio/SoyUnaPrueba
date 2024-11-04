@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\emili\\Desktop\\unity\\Soy una prueba\\SoyUnaPrueba\\",
+  "WorkspaceRootPath": "C:\\Perfiles\\Videojuegos\\Documents\\UnityProyects\\SoyUnaPrueba\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79E3EE26-CAFD-C267-77CE-65709FD6BCDD}|Assembly-CSharp.csproj|c:\\users\\emili\\desktop\\unity\\soy una prueba\\soyunaprueba\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79E3EE26-CAFD-C267-77CE-65709FD6BCDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79E3EE26-CAFD-C267-77CE-65709FD6BCDD}|Assembly-CSharp.csproj|C:\\Perfiles\\Videojuegos\\Documents\\UnityProyects\\SoyUnaPrueba\\assets\\scripts\\characterselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E3EE26-CAFD-C267-77CE-65709FD6BCDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characterselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79E3EE26-CAFD-C267-77CE-65709FD6BCDD}|Assembly-CSharp.csproj|c:\\users\\emili\\desktop\\unity\\soy una prueba\\soyunaprueba\\assets\\scripts\\characterselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79E3EE26-CAFD-C267-77CE-65709FD6BCDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characterselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79E3EE26-CAFD-C267-77CE-65709FD6BCDD}|Assembly-CSharp.csproj|c:\\perfiles\\videojuegos\\documents\\unityproyects\\soyunaprueba\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E3EE26-CAFD-C267-77CE-65709FD6BCDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,36 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\emili\\Desktop\\unity\\Soy una prueba\\SoyUnaPrueba\\Assets\\Scripts\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "C:\\Users\\emili\\Desktop\\unity\\Soy una prueba\\SoyUnaPrueba\\Assets\\Scripts\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBgAAAAaAAAA",
+              "Title": "CharacterSelect.cs",
+              "DocumentMoniker": "C:\\Perfiles\\Videojuegos\\Documents\\UnityProyects\\SoyUnaPrueba\\Assets\\Scripts\\CharacterSelect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterSelect.cs",
+              "ToolTip": "C:\\Perfiles\\Videojuegos\\Documents\\UnityProyects\\SoyUnaPrueba\\Assets\\Scripts\\CharacterSelect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CharacterSelect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T10:22:06.226Z",
+              "WhenOpened": "2024-11-04T10:13:12.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CharacterSelect.cs",
-              "DocumentMoniker": "C:\\Users\\emili\\Desktop\\unity\\Soy una prueba\\SoyUnaPrueba\\Assets\\Scripts\\CharacterSelect.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterSelect.cs",
-              "ToolTip": "C:\\Users\\emili\\Desktop\\unity\\Soy una prueba\\SoyUnaPrueba\\Assets\\Scripts\\CharacterSelect.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CharacterSelect.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Perfiles\\Videojuegos\\Documents\\UnityProyects\\SoyUnaPrueba\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Perfiles\\Videojuegos\\Documents\\UnityProyects\\SoyUnaPrueba\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T10:13:12.703Z",
+              "WhenOpened": "2024-11-04T10:22:06.226Z",
               "EditorCaption": ""
             }
           ]
