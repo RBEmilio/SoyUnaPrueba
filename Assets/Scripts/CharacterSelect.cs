@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class CharacterSelect : MonoBehaviour
 {
    //Hola
+   //Adios
     void Start()
     {
         //Inicializamos el PlayerPref "char" en 0
